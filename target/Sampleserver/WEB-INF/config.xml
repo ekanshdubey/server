@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<servlet>
+    <servlet-name>hi</servlet-name>
+    <servlet-class>hello</servlet-class>
+    <url-pattern>/hi</url-pattern>
+</servlet>
+    </config>
